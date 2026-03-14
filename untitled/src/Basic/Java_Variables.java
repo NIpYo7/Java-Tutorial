@@ -1,7 +1,7 @@
 package Basic;
 
 public class Java_Variables {
-    public static void main(String[] args){
+    public static void main(str[] args){
         int x=5;
         int y=6;
         System.out.println("The Sum is " + x+y);
